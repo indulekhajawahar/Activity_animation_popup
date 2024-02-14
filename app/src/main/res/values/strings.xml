@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Activity_animation_popup</string>
+    <string-array name="student_list">
+        <item>  ABCD</item>
+        <item>  EFGH</item>
+        <item>  PQRS</item>
+        <item>  XYZ</item>
+
+    </string-array>
+</resources>
